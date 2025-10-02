@@ -1,4 +1,4 @@
-📊 Computational Probability
+📊 **Probabilidade computacional**
 
 Este repositório contém implementações, experimentos e anotações relacionados à probabilidade computacional, com foco em métodos numéricos, simulações e visualizações para resolver problemas probabilísticos de forma prática.
 it includes :
@@ -13,7 +13,7 @@ it includes :
 
 🏗️ Algoritmos para Simulação de Eventos Discretos: Filas, Redes, etc.
 
-📊 Computational Probability
+📊 **Computational Probability**
 
 This repository contains implementations, experiments, and notes related to computational probability, focusing on numerical methods, simulations, and visualizations to solve probabilistic problems in practice.
 It includes : 
@@ -29,7 +29,7 @@ It includes :
 🏗️ Algorithms for Discrete Event Simulation: Queues, Networks, etc.
 
 
-📊 Probabilidad Computacional
+📊 **Probabilidad Computacional**
 
 Este repositorio contiene implementaciones, experimetnos y notas sobre probabilidad computacional, enfocandose en metodos numerico, simulaciones, y visualizaciones para resolver problemas probabilisticos en práctica;
 Incluye:
