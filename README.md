@@ -1,4 +1,5 @@
 📊 Computational Probability
+
 Este repositório contém implementações, experimentos e anotações relacionados à probabilidade computacional, com foco em métodos numéricos, simulações e visualizações para resolver problemas probabilísticos de forma prática.
 it includes :
 
