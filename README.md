@@ -33,6 +33,7 @@ It includes :
 
 ---
 #ES Espanhol
+
 📊 **Probabilidad Computacional**
 
 Este repositorio contiene implementaciones, experimetnos y notas sobre probabilidad computacional, enfocandose en metodos numerico, simulaciones, y visualizaciones para resolver problemas probabilisticos en práctica;
@@ -47,3 +48,4 @@ Incluye:
 🌊 Algoritmos para la Simulación Estocástica de Variables Aleatorias Continuas y Aplicaciones
 
 🏗️ Algoritmos para la Simulación de Eventos Discretos: Colas, Redes, etc.
+---
