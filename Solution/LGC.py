@@ -25,7 +25,6 @@ for i in range(c):
     sequencia.append(xn)
     x0 = xn
 
-
 print(sequencia)
 
 
