@@ -1,5 +1,6 @@
 import simulationAlgorithms
 import matplotlib.pyplot as plt
+import random 
 
 #c = 10
 #a = 1
@@ -25,8 +26,8 @@ maiorInteiro = 2147483647
 numeroSimulaciones = 0
 sumaDados = []
 c=0
-semente1 = 123456
-semente2 = 78910
+semente1 = 3
+semente2 = 2
 dados1 = []
 dados2 = []
 
