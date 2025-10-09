@@ -25,7 +25,6 @@ def linealCongruentialGenerator(semente, multiplicador, incremento, maiorInteiro
 
     return sequencia
 
-
 def LinealCongruentialGeneratorUnique(x0,a,c,m): 
     seed = x0
     x1 = (a*seed+c) % m  
